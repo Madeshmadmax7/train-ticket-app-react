@@ -16,7 +16,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/train-ticket-app-react">
       <div className="App">
         <Routes>
           <Route path="/" element={<Login />} />

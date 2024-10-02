@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/train-ticket-app-react/static/css/main.50606c55.css",
+    "main.js": "/train-ticket-app-react/static/js/main.054b09d0.js",
+    "static/js/453.f068b339.chunk.js": "/train-ticket-app-react/static/js/453.f068b339.chunk.js",
+    "static/media/Train1.jpg": "/train-ticket-app-react/static/media/Train1.9ee53b44a4b081f34a77.jpg",
+    "static/media/Train.jpg": "/train-ticket-app-react/static/media/Train.13e9614eef37f9f91537.jpg",
+    "static/media/user2.png": "/train-ticket-app-react/static/media/user2.174cd90b5a7f1d66f9bc.png",
+    "index.html": "/train-ticket-app-react/index.html",
+    "main.50606c55.css.map": "/train-ticket-app-react/static/css/main.50606c55.css.map",
+    "main.054b09d0.js.map": "/train-ticket-app-react/static/js/main.054b09d0.js.map",
+    "453.f068b339.chunk.js.map": "/train-ticket-app-react/static/js/453.f068b339.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50606c55.css",
+    "static/js/main.054b09d0.js"
+  ]
+}

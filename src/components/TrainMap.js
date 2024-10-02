@@ -13,8 +13,8 @@ const trainRoutes = {
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
-                    [80.2707, 13.0827], // Chennai
-                    [76.9647, 11.0168]  // Coimbatore
+                    [80.2707, 13.0827], 
+                    [76.9647, 11.0168]  
                 ]
             }
         },
@@ -24,8 +24,8 @@ const trainRoutes = {
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
-                    [80.2707, 13.0827], // Chennai
-                    [77.3411, 11.1085]  // Tirupur
+                    [80.2707, 13.0827], 
+                    [77.3411, 11.1085] 
                 ]
             }
         },
@@ -35,8 +35,8 @@ const trainRoutes = {
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
-                    [80.2707, 13.0827], // Chennai
-                    [78.1198, 9.9252]   // Madurai
+                    [80.2707, 13.0827], 
+                    [78.1198, 9.9252]   
                 ]
             }
         },
@@ -46,8 +46,8 @@ const trainRoutes = {
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
-                    [76.9647, 11.0168], // Coimbatore
-                    [78.1198, 9.9252]   // Madurai
+                    [76.9647, 11.0168], 
+                    [78.1198, 9.9252]   
                 ]
             }
         },
@@ -57,8 +57,8 @@ const trainRoutes = {
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
-                    [76.9647, 11.0168], // Coimbatore
-                    [77.3411, 11.1085]  // Tirupur
+                    [76.9647, 11.0168], 
+                    [77.3411, 11.1085] 
                 ]
             }
         },
@@ -68,8 +68,8 @@ const trainRoutes = {
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
-                    [78.1198, 9.9252],  // Madurai
-                    [77.3411, 11.1085]  // Tirupur
+                    [78.1198, 9.9252],  
+                    [77.3411, 11.1085]  
                 ]
             }
         }

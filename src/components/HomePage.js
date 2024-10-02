@@ -5,7 +5,7 @@ import img from './user2.png';
 
 function HomePage() {
     const navigate = useNavigate();
-
+    
     return (
         <div className='homepage-container'>
             <nav className="navbar">
@@ -27,12 +27,6 @@ function HomePage() {
                     <button className="home-btn" onClick={() => navigate('/train-map')}>See routes</button>
                 </div>
             </div>
-            <footer className="footer">
-                <div className="footer-content">
-                    <p>Contact us at: support@booktrains.com</p>
-                    <p>&copy; 2024 BookTrains. All Rights Reserved.</p>
-                </div>
-            </footer>
         </div>
     );
 }
